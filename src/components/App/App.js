@@ -7,6 +7,7 @@ import SearchBar from '../SearchBar/SearchBar';
 //20180610
 import Yelp from '../../util/Yelp';
 
+//Interacting with the Yelp API
 /*const business = {
   imageSrc: 'https://s3.amazonaws.com/codecademy-content/programs/react/ravenous/pizza.jpg',
   name: 'MarginOtto Pizzeria',
